@@ -1,5 +1,5 @@
 <!--
-  README de perfil · Juan Leguizamón (@ju-pa-leguizamon)
+  README de perfil · Juan Leguizamón (@Juan-sjss)
   Paleta: rojo oscuro y negro.
   Personaliza los enlaces opcionales marcados como TU_USUARIO / TU_PORTAFOLIO.
 -->
@@ -8,15 +8,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,35:5C0011,70:B3001B,100:0A0A0A&height=220&section=header&text=Juan%20Leguizam%C3%B3n&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudiante%20%C2%B7%20Desarrollador%20en%20formaci%C3%B3n&descAlignY=55&descSize=18" width="100%" alt="Juan Leguizamón" />
 
-<a href="https://github.com/ju-pa-leguizamon">
+<a href="https://github.com/Juan-sjss">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4D6D&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Juan+%F0%9F%91%8B;Estudiante+en+la+Unillanos+%F0%9F%8E%93;Desarrollador+web+y+m%C3%B3vil+en+formaci%C3%B3n+%E2%9A%9B%EF%B8%8F;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=ju-pa-leguizamon&label=Visitas%20al%20perfil&color=B3001B&style=flat-square)
-[![Seguidores](https://img.shields.io/github/followers/ju-pa-leguizamon?label=Seguidores&style=flat-square&labelColor=0A0A0A&color=B3001B&logo=github&logoColor=white)](https://github.com/ju-pa-leguizamon?tab=followers)
-[![Estrellas](https://img.shields.io/github/stars/ju-pa-leguizamon?label=Estrellas&style=flat-square&labelColor=0A0A0A&color=FF4D6D&logo=github&logoColor=white)](https://github.com/ju-pa-leguizamon?tab=repositories)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=Juan-sjss&label=Visitas%20al%20perfil&color=B3001B&style=flat-square)
+[![Seguidores](https://img.shields.io/github/followers/Juan-sjss?label=Seguidores&style=flat-square&labelColor=0A0A0A&color=B3001B&logo=github&logoColor=white)](https://github.com/Juan-sjss?tab=followers)
+[![Estrellas](https://img.shields.io/github/stars/Juan-sjss?label=Estrellas&style=flat-square&labelColor=0A0A0A&color=FF4D6D&logo=github&logoColor=white)](https://github.com/Juan-sjss?tab=repositories)
 
 </div>
 
@@ -74,8 +74,8 @@ aprendiendo: arquitectura, buenas prácticas y nuevas tecnologías
 
 <div align="center">
 
-<a href="https://github.com/ju-pa-leguizamon/raiz-arbol-genealogico">
-  <img width="75%" src="https://opengraph.githubassets.com/1/ju-pa-leguizamon/raiz-arbol-genealogico" alt="Raíz · árbol genealógico" />
+<a href="https://github.com/Juan-sjss/raiz-arbol-genealogico">
+  <img width="75%" src="https://opengraph.githubassets.com/1/Juan-sjss/raiz-arbol-genealogico" alt="Raíz · árbol genealógico" />
 </a>
 
 ### 🌳 Raíz
@@ -92,9 +92,9 @@ directamente en el dispositivo: sin conexión y sin depender de la nube.
 ![Capacitor](https://img.shields.io/badge/Capacitor-8B0000?style=flat-square&logo=capacitor&logoColor=white)
 ![Offline-first](https://img.shields.io/badge/Offline--first-0A0A0A?style=flat-square&logo=databricks&logoColor=FF4D6D)
 
-[![Ver repositorio](https://img.shields.io/badge/Ver%20repositorio-B3001B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ju-pa-leguizamon/raiz-arbol-genealogico)
+[![Ver repositorio](https://img.shields.io/badge/Ver%20repositorio-B3001B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juan-sjss/raiz-arbol-genealogico)
 
-<sub>¿Quieres ver más? Explora <a href="https://github.com/ju-pa-leguizamon?tab=repositories">todos mis repositorios</a>.</sub>
+<sub>¿Quieres ver más? Explora <a href="https://github.com/Juan-sjss?tab=repositories">todos mis repositorios</a>.</sub>
 
 </div>
 
@@ -104,14 +104,14 @@ directamente en el dispositivo: sin conexión y sin depender de la nube.
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ju-pa-leguizamon&theme=github_dark&name=Juan%20Leguizam%C3%B3n&title_color=FF4D6D&text_color=E5E5E5&bg_color=0A0A0A&border_color=3A0A12&icon_color=FF4D6D&chart_color=C1121F" alt="Resumen de GitHub" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juan-sjss&theme=github_dark&name=Juan%20Leguizam%C3%B3n&title_color=FF4D6D&text_color=E5E5E5&bg_color=0A0A0A&border_color=3A0A12&icon_color=FF4D6D&chart_color=C1121F" alt="Resumen de GitHub" />
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ju-pa-leguizamon&theme=github_dark&title_color=FF4D6D&text_color=E5E5E5&bg_color=0A0A0A&border_color=3A0A12&icon_color=FF4D6D" alt="Estadísticas de GitHub" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ju-pa-leguizamon&theme=github_dark&timeZone=America%2FBogota&title_color=FF4D6D&text_color=E5E5E5&bg_color=0A0A0A&border_color=3A0A12&icon_color=FF4D6D&chart_color=C1121F" alt="Horario productivo" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juan-sjss&theme=github_dark&title_color=FF4D6D&text_color=E5E5E5&bg_color=0A0A0A&border_color=3A0A12&icon_color=FF4D6D" alt="Estadísticas de GitHub" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Juan-sjss&theme=github_dark&timeZone=America%2FBogota&title_color=FF4D6D&text_color=E5E5E5&bg_color=0A0A0A&border_color=3A0A12&icon_color=FF4D6D&chart_color=C1121F" alt="Horario productivo" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ju-pa-leguizamon&theme=dark&hide_border=true&background=0A0A0A&ring=C1121F&fire=FF4D6D&currStreakLabel=FF4D6D&sideLabels=E5E5E5&dates=8A8A8A&currStreakNum=FFFFFF&sideNums=FFFFFF&locale=es" alt="Racha de contribuciones" />
+<img src="https://streak-stats.demolab.com?user=Juan-sjss&theme=dark&hide_border=true&background=0A0A0A&ring=C1121F&fire=FF4D6D&currStreakLabel=FF4D6D&sideLabels=E5E5E5&dates=8A8A8A&currStreakNum=FFFFFF&sideNums=FFFFFF&locale=es" alt="Racha de contribuciones" />
 
 </div>
 
@@ -121,7 +121,7 @@ directamente en el dispositivo: sin conexión y sin depender de la nube.
 
 <div align="center">
 
-<a href="https://github.com/ju-pa-leguizamon">
+<a href="https://github.com/Juan-sjss">
   <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FF4D6D" alt="GitHub" />
 </a>
 <a href="mailto:ju.pa.leguizamon@unillanos.edu.co">
